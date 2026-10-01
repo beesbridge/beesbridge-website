@@ -789,6 +789,8 @@ section.section { padding: 110px 0; position: relative; }
   text-wrap: pretty;
 }
 .db-cta { display: flex; gap: 12px; flex-wrap: wrap; }
+.db-hero-content > .mono { display: block; margin-bottom: 18px; }
+.claude-partner-badge { width: 100%; height: auto; }
 
 .db-hero-figs {
   display: grid;
